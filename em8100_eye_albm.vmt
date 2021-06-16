@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/re7/jack_m/em8100_eye_albm"
+	"$bumpmap" "models/scot/re7/jack_m/em8100_eye_NRMR"
+	$nodecal 1
+$nocull 1
+
+	"$color2"		"[0.87 0.87 0.87]"
+	
+	"$phong" "1"
+	"$phongexponent"				"200"
+	"$phongboost"					"1"
+	"$phongfresnelranges"			"[0.3 0.7 1.5]"
+	$basemapalphaphongparts 1
+	
+	"$phongalbedotint" 1
+
+	"$detail" "models/scot/re7/jack_m/em8100_eye_ALBM"
+	$detailscale 1
+	$detailblendmode 7
+	$detailblendfactor 1
+}
